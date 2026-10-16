@@ -1,4 +1,8 @@
 Hello Owner!
 Hi Collaborator!
+HEAD
 
 Line added by the owner
+
+Line added by the collaborator.
+ee1e60b6f7b43d41a781584ef0d9f46b746c7c27
